@@ -1,2 +1,2 @@
 # hackSurrey
-git workshop demo
+This is the best README ever!
